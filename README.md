@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Alex Pyattaev
 - 👀 I’m interested in efficient computing, Rust, Python, communication engineering and machine learning
-- 🌱 I’m currently learning Rust/Axum
+- 🌱 I’m currently learning how to teach people compassion and negotiation
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me - alex.pyattaev@10e100.com
 
